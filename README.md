@@ -2,7 +2,7 @@
 Projet Java pour gérer les réservations de vaisseaux spatiaux.
 
 ## Étudiant
-[Votre nom]
+Alan Agoussi
 
 ## Instructions
 - Compiler : `mvn compile`
